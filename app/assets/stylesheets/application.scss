@@ -12,4 +12,25 @@
  *
  *= require_tree .
  *= require_self
+ @import 'font-awesome';
  */
+
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* footer */
+footer {
+  width: 100%;
+  height: 80px;
+  background-color: gray;
+}
+
+.footer_text {
+	text-align: center;
+}
+
+
